@@ -1,1 +1,100 @@
+{
+"rooms": [
+      {
+        "id": "100",
+        "floor": "1",
+        "roomType": "Individual",
+        "state": [
+          {
+            "date": "",
+            "available": true,
+            "dirty": false,
+            "reserved": false,
+            "occupant": "",
+            "dni": "",
+          },
+        ],
+      },
 
+      {
+        "id": "101",
+        "floor": "1",
+        "roomType": "Doble",
+        "state": [
+          {
+           "date": "",
+            "available": true,
+            "dirty": false,
+            "reserved": false,
+            "occupant": "",
+            "dni": "",
+          },
+        ],
+      },
+
+      {
+        "id": "200",
+        "floor": "2",
+        "roomType": "Doble",
+        "state": [
+          {
+            "date": "",
+            "available": true,
+            "dirty": false,
+            "reserved": false,
+            "occupant": "",
+            "dni": "",
+          },
+        ],
+      },
+
+      {
+        "id": "201",
+        "floor": "2",
+       "roomType": "Triple",
+        "state": [
+          {
+           "date": "",
+            "available": true,
+            "dirty": false,
+            "reserved": false,
+            "occupant": "",
+            "dni": "",
+          },
+        ],
+      },
+
+      {
+        "id": "300",
+        "floor": "3",
+        "roomType": "Individual",
+        "state": [
+          {
+          "date": "",
+            "available": true,
+            "dirty": false,
+            "reserved": false,
+            "occupant": "",
+            "dni": "",
+          },
+        ],
+      },
+
+      {
+        "id": "301",
+        "floor": "3",
+        "roomType": "Triple",
+        "state": [
+          {
+        "date": "",
+            "available": true,
+            "dirty": false,
+            "reserved": false,
+            "occupant": "",
+            "dni": "",
+          },
+        ],
+      },
+    ]
+
+}
